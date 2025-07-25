@@ -1,0 +1,1 @@
+Data Science and AI graduate passionate about solving real-world problems through intelligent systems. Skilled in Python, SQL, and data visualisation, with hands-on projects including AI bias detection in resume screening. Building tools that combine ethics, data, and innovation. Open to collaboration and continuous learning.
